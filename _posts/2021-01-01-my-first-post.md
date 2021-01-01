@@ -1,1 +1,4 @@
-This is sample content under posts directory on mention date in folder name.
+---
+title: "Welcome to my blog"
+date: 2021-01-01
+---
